@@ -1,4 +1,6 @@
 Jack and Jill went up the hill to fetch a pail of water
 Jack and Jill found a monster at the top of the hill
-Jack and Jill ran away in terror.
-Jack and Jill didn't get their water.
+Jack and Jill fought off the monster.
+The whole town loves Jack and Jill for saving them from the monster.
+
+THE END
